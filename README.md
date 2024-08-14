@@ -95,7 +95,7 @@
 
 <img width="5000" src="">
 
-<img width="5000" src="">
+<img width="5000" src="https://raw.githubusercontent.com/Chaks1603/Storage/main/Driven-damped-pendulum.png">
 
 <img width="5000" src="">
 
